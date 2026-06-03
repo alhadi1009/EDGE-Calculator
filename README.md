@@ -8,3 +8,4 @@ git status
 git add
 git commit
 ```
+`#000000`
