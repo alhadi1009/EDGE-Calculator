@@ -12,3 +12,6 @@ A footnote can also have multiple lines[^2].
 This is a second line.
  >[!NOTE]
 > Useful information that users should know, even when skimming content.
+
+<!-- This content will not appear in the rendered Markdown -->
+
