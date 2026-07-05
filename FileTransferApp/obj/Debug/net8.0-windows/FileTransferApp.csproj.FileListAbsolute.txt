@@ -1,0 +1,14 @@
+D:\All Downloads\FileTransferApp\bin\Debug\net8.0-windows\FileTransferApp.exe
+D:\All Downloads\FileTransferApp\bin\Debug\net8.0-windows\FileTransferApp.deps.json
+D:\All Downloads\FileTransferApp\bin\Debug\net8.0-windows\FileTransferApp.runtimeconfig.json
+D:\All Downloads\FileTransferApp\bin\Debug\net8.0-windows\FileTransferApp.dll
+D:\All Downloads\FileTransferApp\bin\Debug\net8.0-windows\FileTransferApp.pdb
+D:\All Downloads\FileTransferApp\obj\Debug\net8.0-windows\FileTransferApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Downloads\FileTransferApp\obj\Debug\net8.0-windows\FileTransferApp.AssemblyInfoInputs.cache
+D:\All Downloads\FileTransferApp\obj\Debug\net8.0-windows\FileTransferApp.AssemblyInfo.cs
+D:\All Downloads\FileTransferApp\obj\Debug\net8.0-windows\FileTransferApp.csproj.CoreCompileInputs.cache
+D:\All Downloads\FileTransferApp\obj\Debug\net8.0-windows\FileTransferApp.dll
+D:\All Downloads\FileTransferApp\obj\Debug\net8.0-windows\refint\FileTransferApp.dll
+D:\All Downloads\FileTransferApp\obj\Debug\net8.0-windows\FileTransferApp.pdb
+D:\All Downloads\FileTransferApp\obj\Debug\net8.0-windows\FileTransferApp.genruntimeconfig.cache
+D:\All Downloads\FileTransferApp\obj\Debug\net8.0-windows\ref\FileTransferApp.dll
